@@ -14,7 +14,7 @@ Empresas Virtuais - o que são?
 
 
 Empresas virtuais são empresas que fazem vendas através da internet ofereçendo vários produros e serviços
-podendo ir de marketing, a vendas ou até mesmo atendimento ao cliente. Também são conhecidas como e-commerce
+podendo ir de marketing, a vendas ou até mesmo atendimento ao cliente.
 
 
 Elas funcionam como uma loja física porém de forma online. O clente acessa o site ou aplicativo e escolhe os produtos
@@ -59,3 +59,12 @@ Selecionar um regime tributário de acordo com o porte da empresa, geralmente as
 Depois disso é necessário tirar o alvará de localização e funcionamento, mesmo a empresa sendo virutal. Esse endereço físico deve ser informado no site do comércio
 
 Por fim faz se necessário uma inscrição estadual e certificado digital.
+
+
+Relação da empresa virtual com o e-commerce
+Um e-coomerce refere aos negócios que estruturam processos de compra e venda na interenet. Um e-commerce envolve muito mais do que apenas a criação de um site. Trata-se de um tipo de empreendimento que se diferencia pela e sua estrutura de funcionamento. Vale a pena destacas que o e-commerce digitaliza dois processos básicos: venda e atendimento ao cliente.
+
+A maior diferença entre e-commerce e loja virtual é que uma loja virtual restringe-se ao seu site ou portal de vendas, assim pode-se dizer que uma loja virtual está integrada ao e-commerce.
+
+A loja virtual é apenaso portal de vendas de um e-commerce. O qual, como um todo também inclui marketing digital, redes sociais, email e outros meios de divulgação que tem como objetivo levar o consumidor ao site ou aplicativo de vendas.
+
