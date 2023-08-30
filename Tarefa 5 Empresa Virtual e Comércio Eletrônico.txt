@@ -1,0 +1,61 @@
+
+Terefa 6 -  Empresa Virtual e Comércio Eletrônico
+
+Empresas Virtuais - o que são?
+
+- para que servem?
+
+- como funcionam?
+
+- desafios?
+
+- o que se precisa para abrir uma?
+
+
+
+Empresas virtuais são empresas que fazem vendas através da internet ofereçendo vários produros e serviços
+podendo ir de marketing, a vendas ou até mesmo atendimento ao cliente. Também são conhecidas como e-commerce
+
+
+Elas funcionam como uma loja física porém de forma online. O clente acessa o site ou aplicativo e escolhe os produtos
+que deseja comprar. A maioria  trabalha com um carrinho de compras virtuais. Depois de escolher os produtos
+o usuário escolhe a forma de pagamento, informa o endereço e aguarda o recebimento. Também pode ter a opção dele mesmo
+retirar na loja física caso a empresa tenha comércio físico.
+
+
+Os principais desafios das empresas virtuais são o tempo de entrega das mercadorias que na maioria dos casos é tercerisado
+e mesmo quando não é isso não depende 100% da empresa, pois muitos fatores influenciam na hora de entregar uma encomenda.
+Outro problema é a falta de segurança de dados e custo de envio das mercadorias.
+Além da entrega é necessário investimento em logistica, segurança, marketing para se destacar perante a concorrência, adaptação
+pois o comércio está sempre mudando e dependendo do produto ou serviço prestado é necessário sempre estar atuaizado.
+Outro desafio citado foi o abandono de carrinho. Isso ocorre quando um cliente vai até um site, monta seu carrinho e não finaliza a compra.
+Isso pode ocorrer por vários motivos, sendo alguns eles custos do frete, tempo de entresa, preocupações com a segurança...
+
+
+Para abrir uma empresa virtual é necessário separar uma lista de documentos, sendo eles:
+Contrato Social ou Requerimento de Empresário Individual ou Estatuto, em três vias.
+Cópia autenticada do RG e CPF dos sócios da empresa
+Requerimento Padrão (Capa da Junta Comercial), em uma via
+FCN (Ficha de Cadastro Nacional) modelo 1 e 2, em uma via
+Pagamento de taxas através de DARF
+
+Após ter esses documentos é necessário fazer o registro na Junta Virtual ou no cartório de pessoas jurídicas
+
+O terceiro passo é fazer uma inscrição no CNPJ
+
+Depois disso define-se o formato de negócio ligado ao faturamento e sócios ou não sócios da empresa.
+Existem vários formatos de enquadramento para a empresa, sendo eles
+Empresa Individual
+Sociedade Limitada (LTDA)
+Microempresa (ME)
+Empresa de Pequeno Porte (EPP)
+Microempreendedor Individual (MEI)
+Empresário Individual de Responsabilidade Limitada (EIRELI)
+
+Tendo isso feito é necessário estabelecer a atividade principal do negócio definindo a area de atuação da empresa.
+
+Selecionar um regime tributário de acordo com o porte da empresa, geralmente as que estão começando optam pelo Simples Nacional
+
+Depois disso é necessário tirar o alvará de localização e funcionamento, mesmo a empresa sendo virutal. Esse endereço físico deve ser informado no site do comércio
+
+Por fim faz se necessário uma inscrição estadual e certificado digital.
