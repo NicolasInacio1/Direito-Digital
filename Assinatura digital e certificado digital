@@ -1,1 +1,19 @@
+O certificado digital funciona como uma carteira de identidade eletrônica para pessoas ou empresas.
+Garante identificação sem a necessidade de uma representação presencial. 
+
+
+Já a assinatura digital é um tipo de assinatura que só existe com o certificado digital. 
+Nesse caso, ela é uma técnica criptográfica que vincula os dados de um certificado digital a documentos eletrônicos a fim de 
+autenticá-los. Sem isso, ela é uma assinatura eletrônica. 
+
+
+Em resumo:
+certificado digital é um documento eletrônico, como uma identidade; e
+assinatura digital usa o certificado digital para ser feita, enquanto outros tipos de assinatura eletrônica não usam 
+o certificado digital, e sim outros meios de identificação do signatário.
+
+
+
+
+
 
