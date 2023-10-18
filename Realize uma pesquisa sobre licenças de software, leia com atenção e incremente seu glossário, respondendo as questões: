@@ -1,0 +1,33 @@
+O que é e para que serve uma licença de software?
+O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+O que é GNU General Public License?
+O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+Identifique as principais licenças quando um repositório é criado no GitHub
+
+
+Uma licença de software é um contrato legal que define os termos e condições de uso, distribuição e modificação de um programa de software. Ela serve para estabelecer os direitos e obrigações dos usuários em relação ao software. Existem várias categorias de licenças de software, cada uma com suas próprias regras e restrições.
+
+Software Proprietário: É um software cujo código-fonte não é disponibilizado para o público e é geralmente comercial. Os usuários recebem uma licença para usar o software, mas não podem ver ou modificar o código-fonte.
+
+Software de Domínio Público: Software que não está sujeito a direitos autorais e pode ser usado por qualquer pessoa para qualquer finalidade, sem restrições.
+
+Adware: Software que é gratuito para os usuários, mas inclui anúncios publicitários, que podem ser intrusivos.
+
+Freeware: Software gratuito que pode ser usado sem custos, mas geralmente não permite a modificação do código-fonte.
+
+Shareware: Software que é distribuído gratuitamente por um período de avaliação, após o qual o usuário é incentivado a comprar uma licença completa.
+
+Software de Código Aberto: Software cujo código-fonte é disponibilizado ao público, permitindo que os usuários visualizem, modifiquem e redistribuam o software. Existem várias licenças de código aberto, incluindo as da Fundação Software Livre (FSF).
+
+GNU General Public License (GPL): Uma licença de código aberto criada pela Fundação Software Livre (FSF), que permite a redistribuição e modificação do software, desde que as versões modificadas também sejam distribuídas com uma licença GPL.
+
+GNU Free Documentation License (GFDL): Uma licença da FSF usada para documentação e textos, que permite a cópia, modificação e redistribuição, desde que as versões modificadas também sejam licenciadas sob a GFDL.
+
+GNU Lesser General Public License (LGPL): Uma licença semelhante à GPL, mas com menos restrições. Ela permite que bibliotecas de software sejam usadas por programas proprietários sem obrigar que esses programas sejam licenciados sob a LGPL.
+
+GNU Affero General Public License (AGPL): Uma variante da GPL que inclui disposições adicionais para serviços de rede. Qualquer software baseado em código AGPL usado em um serviço de rede deve ser disponibilizado publicamente.
+
+Licença Livre e Copyleft: Licenças de código aberto, como a GPL, são consideradas "livres" porque garantem certas liberdades aos usuários, como a liberdade de executar, estudar, modificar e redistribuir o software. "Copyleft" é uma abordagem específica para garantir que as versões modificadas de um software permaneçam sob a mesma licença.
+
+No GitHub, quando um repositório é criado, os usuários podem escolher a licença que desejam aplicar ao seu código. As licenças mais comuns no GitHub incluem a GPL, a MIT License, a Apache License, a BSD License e várias outras. Escolher a licença apropriada é importante, pois determinará como outros podem usar e contribuir para o seu projeto.
+Certas licenças, como a GPL, impõem restrições específicas sobre a redistribuição e a colaboração, enquanto outras, como a MIT License, são mais permissivas. Certifique-se de escolher a licença que melhor atenda aos seus objetivos para o projeto.
