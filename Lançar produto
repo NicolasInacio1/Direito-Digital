@@ -1,0 +1,66 @@
+cuidados para lancar algum produto, dentro do direito digital.
+
+Inicialmente deve se elaborar os termos de politica e privacidade Esses documentos devem informar aos usuários como o
+produto coleta, armazena e usa seus dados, além de estabelecer as condições de uso.
+
+Certificação de Direitos Autorais e Propriedade Intelectual - para garantir que o produto não fere os diretos autorais,
+marcas os patentes registradas
+
+Responsabilidade Legal de acordo com o tipo do produto
+
+Acessibilidade para os diversos tipos de pessoas
+
+Contratos e Acordos com possíveis fornecedores, parceiros e usuários
+
+	portal web(servidor AWS)
+		possui certificação para realizar a operação
+		Segurança
+		backup automatizado 
+		balanceamento de carga entre os servidores
+		1000 a 3000 usuarios
+    
+	
+	portal web
+		serviços 
+		newsletter 
+    Suporte(se oferecido)
+    Equipe treinada para dar suporte(se oferecido)
+		forrum de discusao
+			sem moderaçao
+			
+	Cadastro de usuarios, cliente e fornecedores
+		LGPD 
+		
+	Mensalidade 
+		contrato de adesao 
+			realizado atraves de um clique
+		P1: 39,90 -> 2 Dispositivos
+		P2: 49,90 -> 4 Dispositivos
+		P3: 59,90 -> 6 Dispositivos
+		
+	Não pagamento da mensalidade em 10 dias 
+		tranca o acesso 
+	
+	Nao pagamento da mensalidade em 30 dias 
+		cartorio do protesto 
+		
+	Sistema portal criado 
+		Python 
+		Django
+		Bootstrap-templates
+		Bibliotecas de integração
+			whatsapp
+			Youtube 
+			Vimeo
+
+  Segurança
+Proteção de Dados Pessoais
+Segurança da Informação: 
+
+Alvará caso o servidor for alocado pelo fornecedor
+
+Localização documentada e registrada
+
+tratamento de erros para não frustar os usuários
+
+Após o lançamento deve-se monitorar continuamente para estar sempre atualizado com as leis e o mercado (opcional, também pode lançar e deixar stand alone)
